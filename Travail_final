@@ -1,0 +1,169 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "f2ec87cc-8239-4827-a597-cb7b493d54ed",
+   "metadata": {},
+   "source": [
+    "# Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "538f4d0d-833e-45f9-a08d-de75c2bb689a",
+   "metadata": {},
+   "source": [
+    "In this notebook, Data Science Tools and Ecosystem are summarized."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5d2910cd-dcaa-4ede-bacd-60d52ce725dc",
+   "metadata": {},
+   "source": [
+    "Some of popular languages that Data Scientists use are:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c0b8f876-9479-443a-b6c1-f1ef2d4e93b3",
+   "metadata": {},
+   "source": [
+    "**Objectives**\n",
+    "1. Python\n",
+    "2. R\n",
+    "3. SQL\n",
+    "4. Scala\n",
+    "5. Java"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "44a83d9a-2e0e-41b0-a264-eaa7136b0e52",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries used by Data Scientists include:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4f2ec31e-42f3-4c7e-81c7-e5d0e9e7a2fb",
+   "metadata": {},
+   "source": [
+    "1. Pandas\n",
+    "2. Numpy\n",
+    "3. Scipy\n",
+    "4. MatPlotLib"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4d7239bb-3b37-4272-9fe9-a7c48334a698",
+   "metadata": {},
+   "source": [
+    "| Data Science Tools |\n",
+    "|--------------------|\n",
+    "| MySQL  |\n",
+    "| PostgreSQL |\n",
+    "| Mango DB |\n",
+    " "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "38b26f79-03bd-4342-b79c-51de91d8c5af",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "09b63da3-010d-49a9-b1fa-2c696c31e3d4",
+   "metadata": {},
+   "source": [
+    "This a simple arithmetic expression to multiply then add integers. "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 39,
+   "id": "ec97fe04-c239-492d-a994-c98f5d996d65",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 39,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5393cbca-fa8f-46a7-b33a-eaf6f368fc61",
+   "metadata": {},
+   "source": [
+    "This will convert 200 minutes to hours by diving by 60"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 41,
+   "id": "ce3800d8-a8c0-4908-9d02-c6407f4668dd",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 41,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "200/60"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5a5bb91b-e4c0-489d-a006-edd294dc0615",
+   "metadata": {},
+   "source": [
+    "## Author\n",
+    "Patrick Barreau"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base]",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
